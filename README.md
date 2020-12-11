@@ -1,4 +1,4 @@
-### Hi there, I'm Ram Kumar Shukla<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" style="max-width:100%;">
+## Hi there, I'm Ram Kumar Shukla<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" style="max-width:100%;">
 
 ## I'm a Student, Undergraduate, Developer!
 <br>
@@ -17,6 +17,8 @@
 <br>
 
 ![Ram Kumar's github stats](https://github-readme-stats.vercel.app/api?username=ramkshukla&show_icons=true&theme=radical)
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/70be3b8a105845cb2c5bf5f046a2c1a07396f8317eddd0094855da2e26dc340b/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d7361626573616e73617468616e616e7468616e2e7361626573616e73617468616e616e7468616e"><img align="center" src="https://camo.githubusercontent.com/70be3b8a105845cb2c5bf5f046a2c1a07396f8317eddd0094855da2e26dc340b/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d7361626573616e73617468616e616e7468616e2e7361626573616e73617468616e616e7468616e" alt="Visitors" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=ramkshukla.ramkshukla" style="max-width:100%;"></a>
 
 
 [linkedin]: https://www.linkedin.com/in/ram-kumar-shukla-001a11184/
