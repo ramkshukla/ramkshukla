@@ -18,11 +18,6 @@
 
 ![Ram Kumar's github stats](https://github-readme-stats.vercel.app/api?username=ramkshukla&show_icons=true&theme=radical)
 
-<br>
-
-![Visitor Count](https://profile-counter.glitch.me/ramkshukla/count.svg)
-
-
 [linkedin]: https://www.linkedin.com/in/ram-kumar-shukla-001a11184/
 [twitter]: https://twitter.com/iramkshukla
 [instagram]: https://www.instagram.com/__ram_shukla__/
