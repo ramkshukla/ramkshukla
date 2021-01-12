@@ -20,4 +20,4 @@
 
 [linkedin]: https://www.linkedin.com/in/ram-kumar-shukla-001a11184/
 [twitter]: https://twitter.com/iramkshukla
-[instagram]: https://www.instagram.com/__ram_shukla__/
+[instagram]: https://www.instagram.com/iramkshukla/
