@@ -1,4 +1,4 @@
-## Hi there, I'm Ram Kumar Shukla<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" style="max-width:100%;">
+## Hi there, I'm Ram Kumar Shukla
 
 ## I'm a Student, Undergraduate, Developer!
 <br>
