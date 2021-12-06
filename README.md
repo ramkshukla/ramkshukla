@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently working on projects.
-- 🌱 I’m currently learning Web development.
+- 🌱 I’m currently learning Web development(Backend).
 - :dancers: I’m looking to collaborate with other content creators.
 - :goal_net: 2021 Goals: Learning Data Structure and Algorithm in Java.
 
