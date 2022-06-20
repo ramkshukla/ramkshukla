@@ -1,6 +1,4 @@
 ## Hi there, I'm Ram Kumar Shukla
-
-## I'm a Student, Undergraduate, Developer!
 <br>
 
 - 🔭 I’m currently working on projects.
