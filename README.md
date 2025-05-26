@@ -2,9 +2,8 @@
 
 <br>
 
-- 🔭 I’m currently working on projects.
+- 🔭 I’m currently working on Drona Project.
 - 🌱 I’m currently learning Mobile Full Stack Development.
-- :dancers: I’m looking to collaborate with other content creators.
-- :goal_net: 2024 Goals: Building Rebust Applications.
+- :goal_net: 2025 Goals: Building Rebust Applications.
 
 ![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramkshukla&show_icons=true&theme=radical)
